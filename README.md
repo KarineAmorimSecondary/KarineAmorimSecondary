@@ -26,4 +26,4 @@ Sou uma desenvolvedora frontend apaixonada por criar interfaces de usuário intu
 
 Obrigada por visitar meu perfil!
 
-![GIF Animado](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtnc2x6ODMzdHJ0bXpwbXhkYXo0ZWZiNnU4bXJ1ZG9hdndjemwwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.webp)
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtnc2x6ODMzdHJ0bXpwbXhkYXo0ZWZiNnU4bXJ1ZG9hdndjemwwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.webp" alt="GIF Animado" width="100%">
