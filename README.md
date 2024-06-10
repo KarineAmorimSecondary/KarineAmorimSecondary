@@ -6,9 +6,6 @@ Sou uma desenvolvedora frontend apaixonada por criar interfaces de usuário intu
 ## 🌐 Linguagens Mais Usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kahmori&layout=compact&theme=default)
 
-## 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kahmori&theme=default)](https://git.io/streak-stats)
-
 ## 🚀 Habilidades
 
 ### Linguagens e Tecnologias:
@@ -40,6 +37,9 @@ Sou uma desenvolvedora frontend apaixonada por criar interfaces de usuário intu
 - Instagram: [@codewithkarine](https://www.instagram.com/codewithkarine)
 - Telefone: +55 11 91615-6954
 - Website/Portfólio: [karine-amorim.vercel.app](https://karine-amorim.vercel.app/)
+
+## 🔥 Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kahmori&theme=default)](https://git.io/streak-stats)
 
 ---
 
