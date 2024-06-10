@@ -1,4 +1,4 @@
-# 👩‍💻 Karine Amorim - Desenvolvedora Frontend
+# 👩🏽‍💻 Karine Amorim - Desenvolvedora Frontend
 
 ## Sobre Mim
 Sou uma desenvolvedora frontend apaixonada por criar interfaces de usuário intuitivas e responsivas. Com vasta experiência em tecnologias modernas, estou sempre em busca de novos desafios e oportunidades para expandir minhas habilidades e contribuir com projetos inovadores.
