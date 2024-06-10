@@ -35,7 +35,6 @@ Sou uma desenvolvedora frontend apaixonada por criar interfaces de usuário intu
 - Email: karineamorim30@gmail.com
 - LinkedIn: [Karine Amorim](https://www.linkedin.com/in/karine-amorimbr/)
 - Instagram: [@codewithkarine](https://www.instagram.com/codewithkarine)
-- Telefone: +55 11 91615-6954
 - Website/Portfólio: [karine-amorim.vercel.app](https://karine-amorim.vercel.app/)
 
 ## 🔥 Streak Stats
